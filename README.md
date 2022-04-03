@@ -1,7 +1,6 @@
 ## Hi, I'm lZackx 👋
 
 <p align="center">
-  <br><br>
   <a href="https://github.com/lzackx">
     <img src="https://badges.pufler.dev/visits/lzackx/lzackx?style=flat-square&color=black&logo=github">
   </a>
