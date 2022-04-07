@@ -20,21 +20,21 @@
 
 #### Open Source Repositories
 
-<a href="https://github.com/lzackx/Zequest">
+<a href="https://github.com/lzackx/lzackx.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=lzackx.github.io&theme=github_dark" />
 </a>
-<a href="https://github.com/lzackx/Zequest">
+<a href="https://github.com/lzackx/Zouter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zouter&theme=github_dark" />
 </a>
 <a href="https://github.com/lzackx/Zequest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zequest&theme=github_dark" />
 </a>
-<a href="https://github.com/lzackx/Zequest">
+<a href="https://github.com/lzackx/Zopup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zopup&theme=github_dark" />
 </a>
-<a href="https://github.com/lzackx/Zequest">
+<a href="https://github.com/lzackx/Zcripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zcripts&theme=github_dark" />
 </a>
-<a href="https://github.com/lzackx/Zequest">
+<a href="https://github.com/lzackx/Zatcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zatcher&theme=github_dark" />
 </a>
