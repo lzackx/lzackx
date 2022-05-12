@@ -32,8 +32,8 @@
 <a href="https://github.com/lzackx/Zopup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zopup&theme=github_dark" />
 </a>
-<a href="https://github.com/lzackx/Zcripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zcripts&theme=github_dark" />
+<a href="https://github.com/lzackx/Zodifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zodifier&theme=github_dark" />
 </a>
 <a href="https://github.com/lzackx/Zoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzackx&repo=Zoo&theme=github_dark" />
